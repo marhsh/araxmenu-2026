@@ -628,16 +628,24 @@ body {
     padding: 0 10px;
   }
 
-  /* دکمه‌ها تمام عرض موبایل شوند */
-  .menu-btn,
-  .home-btn,
-  .back-button {
+  /* دکمه‌های اصلی موبایل */
+.menu-btn,
+.home-btn {
     width: 92%;
     max-width: 340px;
     margin: 0 auto;
     display: block;
     text-align: center;
-  }
+}
+
+/* دکمه بازگشت موبایل (کوچکتر مثل قبل) */
+.back-button {
+    width: auto;
+    max-width: none;
+    padding: 10px 24px;
+    margin: 30px auto;
+    display: block;
+}
 
   /* فاصله بین دکمه‌ها */
   .menu-buttons {
