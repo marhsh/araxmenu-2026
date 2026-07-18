@@ -382,3 +382,35 @@ body {
 .blink-text {
   animation: blinkText 1.5s infinite;
 }
+/* اصلاح دکمه‌های صفحه اول */
+
+.home-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* فاصله بین دو دکمه در ویندوز */
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+/* سایز بهتر در دسکتاپ */
+.home-btn {
+  min-width: 180px;
+  padding: 12px 30px;
+  font-size: 16px;
+}
+
+/* حالت موبایل */
+@media screen and (max-width: 768px) {
+  .home-buttons {
+    flex-direction: column;
+    gap: 15px; /* فاصله عمودی در موبایل */
+    align-items: center;
+  }
+
+  .home-btn {
+    width: 85%;
+    max-width: 300px;
+    font-size: 15px;
+    padding: 14px 20px;
+  }
+}
