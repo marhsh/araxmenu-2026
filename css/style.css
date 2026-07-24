@@ -414,3 +414,59 @@ body {
     padding: 14px 20px;
   }
 }
+/* اصلاح وسط‌چین شدن عکس‌ها در موبایل */
+@media screen and (max-width: 768px) {
+
+  .card-grid {
+    justify-content: center;
+  }
+
+  .food-card {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .back-button {
+    display: block;
+    margin: 30px auto;
+    text-align: center;
+  }
+
+}.contact-note {
+  font-size: 12px;
+  opacity: 0.7;
+  margin-top: 10px;
+  text-align: center;
+}
+.delivery-area {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.delivery-cities {
+  font-size: 12px;
+  opacity: 0.8;
+}
+/* اصلاح چینش بخش تماس‌ها */
+
+.menu-contacts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.menu-contacts .contact-note {
+  flex-basis: 100%;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 12px;
+  opacity: 0.7;
+}
+.delivery-area {
+  text-align: center;
+  margin-top: 40px;   /* فاصله بیشتر از دکمه‌های بالا */
+  margin-bottom: 5px; /* فاصله کمتر از شماره تماس‌ها */
+  font-size: 16px;
+}
