@@ -51,7 +51,7 @@
           const card = document.createElement("div");
           card.className = "food-card";
           card.innerHTML = `
-            <img src="${item.img}" alt="${item.name}">
+            <img src="${item.img}" alt="${item.name}" loading="lazy">
             <div class="food-info">
               <h3>${item.name}</h3>
               <p>${item.price}</p>
