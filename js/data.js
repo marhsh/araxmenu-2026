@@ -5,7 +5,7 @@ const data = {
       { name: "زرشک پلو با مرغ مجلسی (400 گرم ران مرغ)", price: "450,000 تومان", img: "image/42.webp", available: true },
       { name: "زرشک پلو با مرغ مجلسی مایکروفری (400 گرم ران مرغ)", price: "520,000 تومان", img: "image/32.webp", available: true },
       { name: "چلو خورشت قرمه سبزی", price: "330,000 تومان", img: "image/48.webp", available: true },
-      { name: "چلو خورشت قیمه بادمجان", price: "330,000 تومان", img: "image/47.webp", available: true },
+      { name: "چلو خورشت قیمه سیب زمینی", price: "330,000 تومان", img: "image/47.webp", available: true },
       { name: "چلو کره زعفرانی", price: "160,000 تومان", img: "image/36.webp", available: true },
       { name: "ته‌چین زعفرانی (۶ تکه)", price: "180,000 تومان", img: "image/37.webp", available: true }
     ]
