@@ -16,9 +16,9 @@ const data = {
       { subtitle: "🥇 VIP", items: [
           { name: "چلو جوجه کباب VIP (290 گرم سینه مرغ)", price: "680,000 تومان", img: "image/1.webp", available: true },
           { name: "چلو جوجه کباب ماسالا VIP (290 گرم ران مرغ)", price: "680,000 تومان", img: "image/4.webp", available: true },
-          { name: "چلو کوبیده (لقمه) VIP (250 گرم گوشت مخلوط)", price: "680,000 تومان", img: "image/6.webp", available: true },
+          { name: "چلو کوبیده (لقمه) VIP (250 گرم گوشت مخلوط)", price: "710,000 تومان", img: "image/6.webp", available: true },
           { name: "چلو کباب وزیری (میکس) VIP (220 گرم سینه مرغ + 200 گرم گوشت مخلوط)", price: "770,000 تومان", img: "image/9.webp", available: true },
-          { name: "چلو کباب نگینی VIP (250 گرم گوشت مخلوط + 40 گرم سینه مرغ)", price: "720,000 تومان", img: "image/12.webp", available: true }
+          { name: "چلو کباب نگینی VIP (250 گرم گوشت مخلوط + 40 گرم سینه مرغ)", price: "750,000 تومان", img: "image/12.webp", available: true }
         ]},
       { subtitle: "🥈 ویژه مایکروفری", items: [
           { name: "چلو جوجه کباب ویژه مایکروفری (220 گرم سینه مرغ)", price: "535,000 تومان", img: "image/2.webp", available: true },
@@ -30,13 +30,13 @@ const data = {
       { subtitle: "⭐ ویژه آراکس", items: [
           { name: "چلو جوجه کباب ویژه آراکس (220 گرم سینه مرغ)", price: "460,000 تومان", img: "image/3.webp", available: true },
           { name: "چلو جوجه کباب ماسالا ویژه آراکس (220 گرم ران مرغ)", price: "460,000 تومان", img: "image/57.webp", available: true },
-          { name: "چلو کوبیده (لقمه) ویژه آراکس (200 گرم گوشت مخلوط)", price: "460,000 تومان", img: "image/41.webp", available: true },
+          { name: "چلو کوبیده (لقمه) ویژه آراکس (200 گرم گوشت مخلوط)", price: "480,000 تومان", img: "image/41.webp", available: true },
           { name: "چلو کباب وزیری (میکس) ویژه آراکس (220 گرم سینه مرغ + 160 گرم گوشت مخلوط)", price: "610,000 تومان", img: "image/45.webp", available: true },
-          { name: "چلو کباب نگینی ویژه آراکس (180 گرم گوشت مخلوط + 30 گرم سینه مرغ)", price: "500,000 تومان", img: "image/40.webp", available: true }
+          { name: "چلو کباب نگینی ویژه آراکس (180 گرم گوشت مخلوط + 30 گرم سینه مرغ)", price: "520,000 تومان", img: "image/40.webp", available: true }
         ]},
       { subtitle: "🥉 اقتصادی", items: [
           { name: "چلو جوجه کباب اقتصادی (180 گرم سینه مرغ)", price: "380,000 تومان", img: "image/3.webp", available: true },
-          { name: "چلو کوبیده (لقمه) اقتصادی (160 گرم گوشت مخلوط)", price: "380,000 تومان", img: "image/41.webp", available: true },
+          { name: "چلو کوبیده (لقمه) اقتصادی (160 گرم گوشت مخلوط)", price: "390,000 تومان", img: "image/41.webp", available: true },
           { name: "چلو کباب وزیری (میکس) اقتصادی (180 گرم سینه مرغ + 160 گرم گوشت مخلوط)", price: "535,000 تومان", img: "image/45.webp", available: true }
         ]}
     ]
@@ -47,20 +47,20 @@ const data = {
       { subtitle: "🥇 VIP", items: [
           { name: "خوراک جوجه کباب VIP (290 گرم سینه مرغ)", price: "490,000 تومان", img: "image/16.webp", available: true },
           { name: "خوراک جوجه کباب ماسالا VIP (290 گرم ران مرغ)", price: "490,000 تومان", img: "image/43.webp", available: true },
-          { name: "خوراک کوبیده (لقمه) VIP (250 گرم گوشت مخلوط)", price: "490,000 تومان", img: "image/20.webp", available: true },
+          { name: "خوراک کوبیده (لقمه) VIP (250 گرم گوشت مخلوط)", price: "520,000 تومان", img: "image/20.webp", available: true },
           { name: "خوراک کباب وزیری (میکس) VIP (220 گرم سینه مرغ + 200 گرم گوشت مخلوط)", price: "610,000 تومان", img: "image/23.webp", available: true },
-          { name: "خوراک کباب نگینی VIP (250 گرم گوشت مخلوط + 40 گرم سینه مرغ)", price: "520,000 تومان", img: "image/27.webp", available: true }
+          { name: "خوراک کباب نگینی VIP (250 گرم گوشت مخلوط + 40 گرم سینه مرغ)", price: "550,000 تومان", img: "image/27.webp", available: true }
         ]},
       { subtitle: "🥈 ویژه", items: [
           { name: "خوراک جوجه کباب ویژه (220 گرم سینه مرغ)", price: "360,000 تومان", img: "image/17.webp", available: true },
           { name: "خوراک جوجه کباب ماسالا ویژه  (220 گرم ران مرغ)", price: "360,000 تومان", img: "image/39.webp", available: true },
-          { name: "خوراک کوبیده (لقمه) ویژه  (200 گرم گوشت مخلوط)", price: "360,000 تومان", img: "image/21.webp", available: true },
+          { name: "خوراک کوبیده (لقمه) ویژه  (200 گرم گوشت مخلوط)", price: "380,000 تومان", img: "image/21.webp", available: true },
           { name: "خوراک کباب وزیری (میکس) ویژه (220 گرم سینه مرغ + 160 گرم گوشت مخلوط)", price: "530,000 تومان", img: "image/24.webp", available: true },
-          { name: "خوراک کباب نگینی ویژه  (180 گرم گوشت مخلوط + 30 گرم سینه مرغ)", price: "400,000 تومان", img: "image/26.webp", available: true }
+          { name: "خوراک کباب نگینی ویژه  (180 گرم گوشت مخلوط + 30 گرم سینه مرغ)", price: "420,000 تومان", img: "image/26.webp", available: true }
         ]},
       { subtitle: "🥉 اقتصادی", items: [
           { name: "خوراک جوجه کباب اقتصادی (180 گرم سینه مرغ)", price: "280,000 تومان", img: "image/17.webp", available: true },
-          { name: "خوراک کوبیده اقتصادی (160 گرم گوشت مخلوط)", price: "280,000 تومان", img: "image/21.webp", available: true },
+          { name: "خوراک کوبیده اقتصادی (160 گرم گوشت مخلوط)", price: "300,000 تومان", img: "image/21.webp", available: true },
           { name: "خوراک کباب وزیری (میکس) اقتصادی (180 گرم سینه مرغ + 160 گرم گوشت مخلوط)", price: "440,000 تومان", img: "image/24.webp", available: true }
         ]}
     ]
