@@ -21,11 +21,11 @@ const data = {
           { name: "چلو کباب نگینی VIP (250 گرم گوشت مخلوط + 40 گرم سینه مرغ)", price: "750,000 تومان", img: "image/12.webp", available: true }
         ]},
       { subtitle: "🥈 ویژه مایکروفری", items: [
-          { name: "چلو جوجه کباب ویژه مایکروفری (220 گرم سینه مرغ)", price: "535,000 تومان", img: "image/2.webp", available: true },
-          { name: "چلو جوجه کباب ماسالا ویژه مایکروفری (220 گرم ران مرغ)", price: "535,000 تومان", img: "image/5.webp", available: true },
-          { name: "چلو کوبیده (لقمه) ویژه مایکروفری (200 گرم گوشت مخلوط)", price: "545,000 تومان", img: "image/7.webp", available: true },
-          { name: "چلو کباب وزیری (میکس) ویژه مایکروفری (220 گرم سینه مرغ + 160 گرم گوشت مخلوط)", price: "685,000 تومان", img: "image/10.webp", available: true },
-          { name: "چلو کباب نگینی ویژه مایکروفری (180 گرم گوشت مخلوط + 30 گرم سینه مرغ)", price: "575,000 تومان", img: "image/13.webp", available: true }
+          { name: "چلو جوجه کباب ویژه مایکروفری (220 گرم سینه مرغ)", price: "550,000 تومان", img: "image/2.webp", available: true },
+          { name: "چلو جوجه کباب ماسالا ویژه مایکروفری (220 گرم ران مرغ)", price: "550,000 تومان", img: "image/5.webp", available: true },
+          { name: "چلو کوبیده (لقمه) ویژه مایکروفری (200 گرم گوشت مخلوط)", price: "570,000 تومان", img: "image/7.webp", available: true },
+          { name: "چلو کباب وزیری (میکس) ویژه مایکروفری (220 گرم سینه مرغ + 160 گرم گوشت مخلوط)", price: "700,000 تومان", img: "image/10.webp", available: true },
+          { name: "چلو کباب نگینی ویژه مایکروفری (180 گرم گوشت مخلوط + 30 گرم سینه مرغ)", price: "590,000 تومان", img: "image/13.webp", available: true }
         ]},
       { subtitle: "⭐ ویژه آراکس", items: [
           { name: "چلو جوجه کباب ویژه آراکس (220 گرم سینه مرغ)", price: "460,000 تومان", img: "image/3.webp", available: true },
