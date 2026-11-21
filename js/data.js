@@ -2,8 +2,8 @@ const data = {
   iranian: {
     title: "🍽 غذاهای ایرانی",
     items: [
-      { name: "زرشک پلو با مرغ مجلسی (400 گرم ران مرغ)", price: "470,000 تومان", img: "image/42.webp", available: true },
-      { name: "زرشک پلو با مرغ مجلسی مایکروفری (400 گرم ران مرغ)", price: "560,000 تومان", img: "image/32.webp", available: true },
+      { name: "زرشک پلو با مرغ مجلسی (400 گرم ران مرغ)", price: "480,000 تومان", img: "image/42.webp", available: true },
+      { name: "زرشک پلو با مرغ مجلسی مایکروفری (400 گرم ران مرغ)", price: "570,000 تومان", img: "image/32.webp", available: true },
       { name: "چلو خورشت قرمه سبزی", price: "350,000 تومان", img: "image/48.webp", available: true },
       { name: "چلو خورشت قیمه سیب زمینی", price: "350,000 تومان", img: "image/47.webp", available: true },
       { name: "چلو کره زعفرانی", price: "180,000 تومان", img: "image/36.webp", available: true },
