@@ -58,7 +58,7 @@ const data = {
           { name: "خوراک کوبیده (لقمه) ویژه  (200 گرم گوشت مخلوط)", price: "410,000 تومان", img: "image/21.webp", available: true },
           { name: "خوراک کباب وزیری (میکس) ویژه (220 گرم سینه مرغ + 160 گرم گوشت مخلوط)", price: "540,000 تومان", img: "image/24.webp", available: true },
           { name: "خوراک کباب نگینی ویژه  (180 گرم گوشت مخلوط + 30 گرم سینه مرغ)", price: "440,000 تومان", img: "image/26.webp", available: true },
-          { name: "خوراک بال و کتف (۷ تکه بال و کتف مرغ)", price: "380٬000 تومان", img: "image/17.webp", available: true }
+          { name: "خوراک بال و کتف (۷ تکه بال و کتف مرغ)", price: "380٬000 تومان", img: "image/46.webp", available: true }
         ]},
       { subtitle: "🥉 اقتصادی", items: [
           { name: "خوراک جوجه کباب اقتصادی (180 گرم سینه مرغ)", price: "340,000 تومان", img: "image/17.webp", available: true },
