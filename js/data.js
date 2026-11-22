@@ -7,7 +7,8 @@ const data = {
       { name: "چلو خورشت قرمه سبزی", price: "350,000 تومان", img: "image/48.webp", available: true },
       { name: "چلو خورشت قیمه سیب زمینی", price: "350,000 تومان", img: "image/47.webp", available: true },
       { name: "چلو کره زعفرانی", price: "180,000 تومان", img: "image/36.webp", available: true },
-      { name: "ته‌چین زعفرانی (۶ تکه)", price: "200,000 تومان", img: "image/37.webp", available: true }
+      { name: "ته‌چین زعفرانی (۶ تکه)", price: "200,000 تومان", img: "image/37.webp", available: true },
+      { name: "دیزی سنگی با مخلفات", price: "700٬000 تومان", img: "image/48.webp", available: true }
     ]
   },
   kabab: {
@@ -56,7 +57,8 @@ const data = {
           { name: "خوراک جوجه کباب ماسالا ویژه  (220 گرم ران مرغ)", price: "410,000 تومان", img: "image/39.webp", available: true },
           { name: "خوراک کوبیده (لقمه) ویژه  (200 گرم گوشت مخلوط)", price: "410,000 تومان", img: "image/21.webp", available: true },
           { name: "خوراک کباب وزیری (میکس) ویژه (220 گرم سینه مرغ + 160 گرم گوشت مخلوط)", price: "540,000 تومان", img: "image/24.webp", available: true },
-          { name: "خوراک کباب نگینی ویژه  (180 گرم گوشت مخلوط + 30 گرم سینه مرغ)", price: "440,000 تومان", img: "image/26.webp", available: true }
+          { name: "خوراک کباب نگینی ویژه  (180 گرم گوشت مخلوط + 30 گرم سینه مرغ)", price: "440,000 تومان", img: "image/26.webp", available: true },
+          { name: "خوراک بال و کتف (۷ تکه بال و کتف مرغ)", price: "380٬000 تومان", img: "image/17.webp", available: true }
         ]},
       { subtitle: "🥉 اقتصادی", items: [
           { name: "خوراک جوجه کباب اقتصادی (180 گرم سینه مرغ)", price: "340,000 تومان", img: "image/17.webp", available: true },
